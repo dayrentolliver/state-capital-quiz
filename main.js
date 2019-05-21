@@ -53,7 +53,7 @@ function score() {
     }
 
     let messages = ["Please, study.", "You did okay...", "Fantastic job!"];
-    let gifs = ["images/disappointed.gif", "images/ok.gif", "images/fantastic.gif"];
+    let gifs = ["disappointed.gif", "ok.gif", "fantastic.gif"];
     let range;
 
     if (correct < 4){
