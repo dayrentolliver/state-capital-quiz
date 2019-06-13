@@ -20,3 +20,6 @@ Dayren Tolliver
 * How to keep a score total
 * How to dispaly a message and gif based on how well the user did
 
+### Future Features
+* Require all questions to be answered before submitting
+* Place the score in gif in a modal
