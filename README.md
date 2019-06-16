@@ -1,6 +1,6 @@
 # state-capital-quiz
 Created this quiz to better my understanding of JavaScript.
-View site here: https://dayrentolliver.github.io/state-capital-quiz/
+View site here: https://dayrentolliver.com/state-capital-quiz/
 
 ### Author(s):
 Dayren Tolliver
@@ -10,7 +10,7 @@ Dayren Tolliver
 * JavaScript
 
 ### How it works:
-1. Open the USA Capital Quiz: https://dayrentolliver.github.io/state-capital-quiz/
+1. Open the USA Capital Quiz: https://dayrentolliver.com/state-capital-quiz/
 2. Make a capital selection for each state
 3. Press the 'View my results!' button
 
