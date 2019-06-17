@@ -21,5 +21,6 @@ Dayren Tolliver
 * How to dispaly a message and gif based on how well the user did
 
 ### Future Features
+* Add all 50 states and have them randomized so that quiz is different each time it's taken
 * Require all questions to be answered before submitting
 * Place the score in gif in a modal
